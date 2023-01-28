@@ -1,3 +1,12 @@
+`
+._py_mkl_service import *
+ImportError: DLL load failed: 
+`
+# 需要复制mkl的相关ddl文件到C:\Windows\System32 
+- mkl的ddl文件链接：  
+- 压缩包两个
+	- https://xiaolin.lanzouo.com/i7FoY0lyhdlc
+	- https://xiaolin.lanzouo.com/inzvm0lyhmbg
 <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" alt="logo" width="400" border="0"><br>
 <p float="left"><img src="https://img.shields.io/badge/python-v3.7-red"> <img src="https://img.shields.io/badge/tensorflow-v1.14-blue"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p>
 <h2>Introduction</h2>
